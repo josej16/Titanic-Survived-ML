@@ -12,17 +12,17 @@ scikit-learn
 matplotlib
 seaborn
 
-##Instalación
+## Instalación
 No se requiere ninguna instalación especial para utilizar este proyecto.
 
-##Uso
+## Uso
 Para utilizar el proyecto, simplemente ejecuta todas las celdas del archivo principal ML.ipynb. Este archivo cargará el conjunto de datos, realizará la preprocesamiento de los datos, entrenará varios modelos de clasificación (como Regresión Logística, Random Forest y SVM) y evaluará su rendimiento utilizando la validación cruzada.
 
-##Conjunto de Datos
+## Conjunto de Datos
 El conjunto de datos utilizado en este proyecto se encuentra en la carpeta titanic y en dos archivos (train.csv y test.csv) uno para entrenar y otro para testear el modelo. 
 El mismo contiene información sobre los pasajeros del Titanic, incluidos detalles como la edad, el género, la clase de boleto, el número de hermanos/cónyuge a bordo, el número de padres/hijos a bordo, el costo del boleto, etc.
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
 
 - ML.ipynb: Archivo principal que carga y procesa los datos, entrena los modelos y evalúa su rendimiento.
@@ -31,5 +31,5 @@ El proyecto está organizado de la siguiente manera:
 - train.csv: Archivo que contiene los datos historicos de los pasajeros para el entrenamiento del modelo, es decir que tiene su variable objetivo.
 - test.csv: Archivo que contiene los datos historicos de los pasajeros para el test del modelo, es decir que NO contiene su variable objetivo
 
-Créditos
+## Créditos
 El conjunto de datos del Titanic fue obtenido del sitio web Kaggle.
