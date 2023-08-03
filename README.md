@@ -6,14 +6,12 @@ Este proyecto tiene como objetivo utilizar técnicas de Machine Learning para pr
 
 Para ejecutar el proyecto, necesitarás tener instaladas las siguientes bibliotecas de Python:
 
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-
-## Instalación
-No se requiere ninguna instalación especial para utilizar este proyecto.
+- Python3
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
 
 ## Uso
 Para utilizar el proyecto, simplemente ejecuta todas las celdas del archivo principal ML.ipynb. Este archivo cargará el conjunto de datos, realizará la preprocesamiento de los datos, entrenará varios modelos de clasificación (como Regresión Logística, Random Forest y SVM) y evaluará su rendimiento utilizando la validación cruzada.
