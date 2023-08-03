@@ -18,6 +18,8 @@ No se requiere ninguna instalación especial para utilizar este proyecto.
 ## Uso
 Para utilizar el proyecto, simplemente ejecuta todas las celdas del archivo principal ML.ipynb. Este archivo cargará el conjunto de datos, realizará la preprocesamiento de los datos, entrenará varios modelos de clasificación (como Regresión Logística, Random Forest y SVM) y evaluará su rendimiento utilizando la validación cruzada.
 
+El mismo guardara las respuestas en un archivo.csv en la carpeta en que se encuentre.
+
 ## Conjunto de Datos
 El conjunto de datos utilizado en este proyecto se encuentra en la carpeta titanic y en dos archivos (train.csv y test.csv) uno para entrenar y otro para testear el modelo. 
 El mismo contiene información sobre los pasajeros del Titanic, incluidos detalles como la edad, el género, la clase de boleto, el número de hermanos/cónyuge a bordo, el número de padres/hijos a bordo, el costo del boleto, etc.
